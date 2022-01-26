@@ -1,0 +1,54 @@
+.Profile{
+    background-image: url(Images/header-bg.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+section{
+    height: 500px;
+    padding-bottom: 130px;
+    
+}
+
+.personal{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-top: 200px;
+}
+.personal img{
+    width: 100%;
+}
+.link-btn{
+    text-decoration: none;
+    background-color: blue;
+    border-radius: 7px;
+    color: cornsilk;
+    padding: 3px 8px;
+}
+
+.biopad{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    margin-top: 100px;
+}
+.bp{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-top: 200px;
+
+}
+.bp img{
+    width: 100%;
+}
+.cv-link{
+
+    text-decoration: none;
+    background-color: darkgreen;
+    color: white;
+    border-radius: 5px;
+    padding: 3px 8px;
+}
